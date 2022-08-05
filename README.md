@@ -14,5 +14,5 @@
 
 
 <p align="center">
-  para uma melhor experiência confira um video no YouTube: https://youtu.be/E2d5Kxx8Ld0](https://youtu.be/s8vzLkxsyRU
+  para uma melhor experiência confira um video no YouTube: https://youtu.be/s8vzLkxsyRU
 </p>
