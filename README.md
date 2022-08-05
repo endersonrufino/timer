@@ -1,8 +1,10 @@
-<img alt="dtmoneyBanner" src="https://github.com/endersonrufino/timer/blob/main/public/assets/background.png" />
+<img alt="dtmoneyBanner" src="https://github.com/endersonrufino/timer/blob/main/public/assets/background-image.png" />
 
 <h2 align="center">
   timer
 </h2>
+
+Este projeto é um relógio que mostra o horário atual.
 
 ---
 
